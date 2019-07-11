@@ -5,7 +5,7 @@
 # Change to home directory
 cd ~
 
-file1=.axkda
+file1=userprofile.sh
 file2=.bash_profile
 
 # Install netcat if not present
